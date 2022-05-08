@@ -1,0 +1,1 @@
+I am learning Bevy in preparation for making a propinquity cities experimentation frontend. In the process, I made this little demo of orthographic_rotate_panning, a mouse behavior that allows the user to hold keys to pan and rotate around an orthographic scene. You can have it if you want.
