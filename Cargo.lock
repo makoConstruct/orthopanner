@@ -512,6 +512,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "bevy_ortho_panner"
+version = "0.1.0"
+dependencies = [
+ "bevy",
+ "fastrand",
+]
+
+[[package]]
 name = "bevy_pbr"
 version = "0.7.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2754,14 +2762,6 @@ dependencies = [
  "proc-macro2",
  "quote",
  "unicode-xid",
-]
-
-[[package]]
-name = "table"
-version = "0.1.0"
-dependencies = [
- "bevy",
- "fastrand",
 ]
 
 [[package]]
